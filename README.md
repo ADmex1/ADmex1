@@ -13,6 +13,6 @@ Passionate about **Web Development** and **Cybersecurity**.
 - **Backend:** Laravel, PHP, Flask, Python
 - **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, JavaScript, React
 - **DBMS:** NoSQL(Mongo), RDBS (MySql)  
-- **Tools & Others:** Vite, Git, GitHub, Postman  
-
 ---
+
+-- **Programmer Aller Länder, Vereinigt Euch!**
