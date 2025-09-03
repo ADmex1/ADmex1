@@ -13,5 +13,4 @@ Passionate about **Web Development** and **Cybersecurity**.
 - **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, JavaScript, React
 - **DBMS:** NoSQL(Mongo), RDBS (MySql)  
 ---
-https://admex1.github.io/Portfolio/
--- **Programmer Aller Länder, Vereinigt Euch!**
+**Programmer Aller Länder, Vereinigt Euch!**
