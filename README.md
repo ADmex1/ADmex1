@@ -10,7 +10,7 @@ Passionate about **Web Development** and **Cybersecurity**.
 
 ##  Skills
 - **Backend:** Laravel, PHP, Flask, Python
-- **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, JavaScript, React
+- **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, JavaScript, React, GO, Fiber
 - **DBMS:** NoSQL(Mongo), RDBS (MySql)  
 ---
 **Programmer Aller Länder, Vereinigt Euch!**
